@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://guaguale.vitacazap.com/sitemap.xml
