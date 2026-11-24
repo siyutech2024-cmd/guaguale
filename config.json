@@ -2,5 +2,15 @@
   "promo": true,
   "adsLive": false,
   "h5Live": false,
-  "railSlot": "2060040670"
+  "railSlot": "2060040670",
+  "vipLive": true,
+  "paypal": "",
+  "itchShop": {
+    "gold10": "https://pplayergame.itch.io/scratch-tycoon-gold10",
+    "gold20": "https://pplayergame.itch.io/scratch-tycoon-gold20",
+    "sign": "https://pplayergame.itch.io/scratch-tycoon-gold-sign",
+    "tycoon": "https://pplayergame.itch.io/scratch-tycoon-tycoon",
+    "supreme": "https://pplayergame.itch.io/scratch-tycoon-supreme",
+    "fx": "https://pplayergame.itch.io/scratch-tycoon-extra-fx"
+  }
 }
